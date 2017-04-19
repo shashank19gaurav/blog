@@ -1,0 +1,23 @@
+# Site settings
+title: Shashank Gaurav
+description: >
+  Shashank Gaurav's personal portfolio and blog. This blog will contain article related to the 
+  competitive coding, open source contribution and on various technologies out there.
+
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://shashankgaurav.com" # the base hostname & protocol for your site
+
+author:
+  fullname: Shashank Gaurav
+  # googleplus: https://www.google.com/+MotaquillahMaddane
+  github: shashank19gaurav
+  # twitter: electrik_frog
+  # disqus: your_disqus_username
+
+google_analytics: 'UA-65701535-2'
+
+#For short URLs
+permalink: none
+
+# Build settings
+markdown: kramdown
