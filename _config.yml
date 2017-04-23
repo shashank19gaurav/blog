@@ -9,10 +9,10 @@ url: "http://shashankgaurav.com" # the base hostname & protocol for your site
 
 author:
   fullname: Shashank Gaurav
-  # googleplus: https://www.google.com/+MotaquillahMaddane
+    # googleplus: https://www.google.com/+MotaquillahMaddane
   github: shashank19gaurav
-  # twitter: electrik_frog
-  # disqus: your_disqus_username
+    # twitter: electrik_frog
+  disqus: shashank19gaurav
 
 google_analytics: 'UA-65701535-2'
 
