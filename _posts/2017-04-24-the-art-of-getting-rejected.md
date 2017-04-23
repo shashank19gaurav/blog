@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "The Art of Getting Rejected"
 ---
 It's so propelling to see how at the beginning of every year people make up their mind to follow a resolution and how they fail 95% of the time. I even bought a domain, a day before the New Year’s Eve of 2016 (You can actually verify it [here](https://who.is/whois/shashankgaurav.com) :p) and the plan was to publish my first post on the first day of 2016.  But like every other New Year’s resolution, this too was abandoned. A few days back, I helped a friend set up her blog which rekindled my year old plan with a slight change. This is going to be more of a series of rants, with a few bits of advice for all engineers in a similar predicament.
