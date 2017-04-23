@@ -11,6 +11,7 @@ At this point, you’re probably wondering why should you care? You can always l
 I am still applying for jobs and you might be wondering why, even though I already have two offers. The reason might be a little egotistical, but it's pretty simple: I can't settle for mediocrity. An ideal company for me would meet these criteria:
 
 1. They should offer a decent package. (Let's be honest, this matter)
+
 2. They should at least have a score of 10 on the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/).
 
 You might think I am greedy for wanting a good package. Well, maybe I am. I don’t want to worry about money when I should be focusing on giving my best at work. I wish to work on interesting and challenging problems alongside brilliant minds. This scenario isn't something that an average company can provide. 
